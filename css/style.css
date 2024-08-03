@@ -1,0 +1,352 @@
+/*
+Theme Name: ava
+Description: This is a child theme for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.0
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+.col7x .large-2 {
+        flex-basis: 14.285%;
+        max-width: 14.285%;
+}
+.tabuser .nav-line-bottom>li>a{
+	padding-left:35px;
+	padding-right:35px;
+	font-size:16px;
+}
+.tabuser .wpcf7-form{
+	margin-top:20px !important;
+}
+.tabuser .wpcf7-spinner{
+	display:none !important
+}
+.tabuser .wpcf7-form .wpcf7-form-control{
+	height:54px;
+	padding-left:15px;
+	padding-right:15px;
+	font-size:14px;
+	border-radius:3px;
+}
+.tabuser .wpcf7-form  .wpcf7-form-control.wpcf7-submit{
+	    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+.tabuser .text p{
+	font-size:13px;
+}
+.pum-content .row.row-collapse{
+	padding-left:0px !important;
+	padding-right:0px !important
+}
+.copyx .icon-box-text{
+	padding-top:5px;
+	font-size:13px;
+}
+.absolute-footer{
+	display:none !important
+}
+.colform .social-icons{
+	margin-bottom:20px !important
+}
+.colform .social-icons .icon.button{
+	background:#e5ff81 !important;
+	margin-right:12px !important;
+}
+.colform .social-icons .icon.button i{
+	color:#222 !important;
+}
+.colform p{
+	display:flex
+}
+.colform  .wpcf7-form-control.wpcf7-submit{
+	border-radius:0px;
+	background-color:rgb(24 46 64) !important;
+	border:0px !important;
+}
+.colform .wpcf7-form-control.wpcf7-email{
+	background-color:rgb(16, 24, 31) !important;
+	border:0px !important;
+	border-radius:0px;
+}
+.colform{
+	border:0px !important;
+}
+.textp{
+	font-size:14px;
+}
+.col7x h4{
+	font-weight:400 !important;
+	color:#4c61ff
+}
+.texxtform h3{
+	color:#4c61ff;
+	font-weight:400 !important;
+	font-size:24px;
+}
+.col7x ul{
+	margin-bottom:0px;
+	list-style:none !important
+}
+.col7x ul li{
+	list-style:none !important;
+	margin-left:0px;
+	margin-bottom:3px;
+	font-size:14px;
+}
+.becom .titmain h2{
+	font-size:34px;
+	margin-bottom:20px !important;
+}
+.checki.icon-box{
+	margin-bottom:10px !important;
+}
+.checki.icon-box .icon-box-text{
+	    padding-top: 1px !important;
+    font-size: 15px;
+	color:#333;
+}
+.rpen p{
+	color:#333;
+}
+.rchoicex .col-inner{
+	padding-top:20px !important;
+	position:relative;
+}
+.rchoicex .col-inner h3{
+	font-size:22px;
+	color:#e5ff81;
+	font-weight:300 !important;
+	line-height:24px;
+}
+.rchoicex .col-inner:after{
+	content:"";
+	z-index:2;
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:40px;
+	background:#e5ff81;
+	height:2px;
+}
+.row.rchoicex{
+	padding-left:0px !important;
+	padding-right:0px !important
+}
+.rchoicex{
+	
+}
+.different{
+	background:url(../images/different-bg-1.png) no-repeat top right	
+}
+.btmorre span{
+	color: #4c61ff !important;
+	font-weight:400 !important;
+	font-size:14px;
+}
+.rpen .col-inner{
+	background:url(../images/bg-icon-laptop.png) no-repeat top left	
+}
+.rpen h3{
+	font-size:24px;
+	font-weight:400 !important;
+	    line-height: 28px;
+    margin-bottom: 28px;
+	min-height:56px;
+}
+.galtrust.row-full-width{
+		padding-left:25px !important;
+	padding-right:25px !important
+}
+.tssub p{
+	font-size:20px;
+	color:#333
+}
+.accplatform .accordion-item{
+	margin-bottom:15px !important;
+
+}
+.endless .row.row-small {
+    max-width: 80%;
+}
+.accplatform .accordion-inner{
+	padding:0px !important;
+	font-size:14px;
+}
+.accplatform .accordion-title{
+	padding-left:0px !important;
+	padding-right:0px !important;
+	border:0px !important;
+	font-size:30px;
+	font-weight:normal !important;
+	padding-bottom:0px !important
+}
+.accplatform .accordion-title.active{
+	color:#e5ff81 !important
+}
+.accplatform .accordion-title .toggle{
+	display:none !important
+}
+.row.rchoi{
+	padding-left:0px !important
+}
+.row.rowbt{
+	padding-left:0px !important;
+	padding-right:0px !important
+}
+.texvbig{
+	font-size:30px;
+	font-weight:400 !important
+}
+.btmain{
+	background:#d34300 !important;
+	border:0px !important;
+	padding:6px 35px;
+	font-weight:500 !important;
+	text-transform:none !important
+}
+.ux-logo-link{
+	padding-left:2px !important;
+	padding-right:2px !important
+}
+.slidoitac .ux-logo-link{
+	padding-left:20px !important;
+	padding-right:20px !important;
+	padding-top:5px !important;
+	padding-bottom:5px !important
+}
+.slidoitac .ux-logo-link img{
+	height:40px !important
+}
+.titmain h2{
+	font-size:40px;
+	font-weight:400 !important;
+	color:#111
+}
+.titmain h3{
+	font-size:26px;
+	font-weight:400 !important;
+	color:#111
+}
+.textfix h2{
+		font-size:40px;
+	font-weight:400 !important;
+	color:#111
+}
+.iconmain h3{
+	padding-top:6px;
+	font-weight:500 !important;
+	color:#4c61ff;
+	font-size:22px;
+}
+.btsub{
+	color:#666 !important;
+	font-weight:500 !important;
+}
+.boxslogan h1{
+	font-weight:500 !important	
+}
+.container, .container-width, .full-width .ubermenu-nav, .row {
+    max-width: 100%;
+	padding-left:60px !important;
+	padding-right:60px !important
+}
+.header-main .nav > li > a {
+    line-height: 16px;
+    font-weight: 500;
+    font-size: 15px;
+}
+.header-main li a{
+	font-size:14px;
+}
+.header-main .header-button-2 .button{
+	background:none !important;
+	color:#4c61ff !important;
+	font-size:14px;
+	font-weight:500 !important;
+	    box-shadow: 0 0 0 #fff !important;
+    border: 0px !important;
+}
+.header-main .header-button-1 .button{
+	padding:6px 35px;
+	font-weight:500 !important;
+	background:#d34300 !important;
+	border:0px !important
+}
+#slogan{
+	padding-top:12px;
+	padding-bottom:12px;
+	background:#e7e9ff!important;
+	clear:both;
+	    text-align: center;
+	font-size:13px;
+	color:#565a8e;
+}
+#top-bar .html_topbar_left{
+	color:#444;
+	text-transform:uppercase;
+	    font-weight: 500;
+	font-size:14px !important
+}
+.header-bg-color{
+	background:none !important
+}
+#top-bar ul.top-bar-nav li a{
+	color:#333;
+	font-size:13px;
+}
+#top-bar ul.top-bar-nav li a sup{
+	font-size: 10px;
+    margin-top: -10px;
+    margin-left: 4px;
+}
+	.stuck .header-main {
+		background:#fff !important
+	}
+@media only screen and (max-width: 1450px) {
+#logo {
+    width: 180px !important;
+}
+.header-main .nav-spacing-xlarge>li {
+    margin: 0 7px;
+}
+	.header-main .nav > li > a{
+		font-size:14px;
+	}
+.boxslogan h1 {
+    font-weight: 500 !important;
+    font-size: 40px;
+}
+	.rinner .col-inner{
+		padding:0px !important
+	}
+	.row.rchoi{
+		padding-right:0px !important
+	}
+
+}
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+.container, .container-width, .full-width .ubermenu-nav, .row {
+    max-width: 100%;
+	padding-left:10px !important;
+	padding-right:10px !important
+}
+	.header-main .header-button-1 .button {
+		padding: 3px 10px;
+		font-size:13px;
+		        white-space: nowrap;
+	}
+.endless .row.row-small {
+    max-width: 100%;
+}
+	.different {
+    background: url(../images/different-bg-1.png) no-repeat bottom right -100px;
+}
+	.col7x .large-2 {
+    flex-basis: 50%;
+    max-width: 50%;
+}
+}
